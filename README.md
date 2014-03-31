@@ -12,9 +12,9 @@ So, I wrote this simple code for begginers that made by pure HTML and CSS...
 There will be sent a request to server for every single image and etc, and this will be made your site harder to load,
 specially for countries like mine that have very slow internet...
 There are ( 2 ) files named `simpleNavigation.php` and `main.php`.
-`simpleNavigation.php works just like the photoshop-plus sample but it contains a problem:
+simpleNavigation.php works just like the photoshop-plus sample but it contains a problem:
 
-`Element a NOT allowed to be as child of ul element so your page will have W3C validity ERROR in this type
+`Element a NOT allowed to be as child of ul element so your page will have W3C validity ERROR in this type and
 I seriously suggest you to use "main.php" instead of this file.`
 
 Using this code is quite easy;
