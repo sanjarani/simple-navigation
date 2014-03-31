@@ -62,16 +62,16 @@ div#wrapper ul li:hover {
 
 <div id="wrapper">
 
-	<ul>
-   	<a href="#">
+   <ul>
+      <a href="#">
          <li>
             Homepage
          </li>
       </a>
       <a href="#">
-		<li>
-      	Our Portfolio
-      </li>
+        <li>
+      	  Our Portfolio
+        </li>
       </a>
       <a href="#">
          <li>
