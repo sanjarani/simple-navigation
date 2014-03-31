@@ -59,6 +59,12 @@ div#wrapper ul li:hover {
 </head>
 
 <body>
+<!--  
+IMPORTANT NOTICE:
+
+Element a NOT allowed to be as child of ul element so your page will have W3C validity ERROR in this type
+I seriously suggest you to use `main.php` instead of this file 
+-->
 
 <div id="wrapper">
 
