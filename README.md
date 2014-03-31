@@ -24,7 +24,7 @@ just copy and paste html and css parts and address the link tags to your site's 
 if you want your navigation menu in CENTER in all resolutions, use the second file, names `makeCenter.js`, 
 else, just ignore `.js` files.
 
-BECAREFUL that include jQuery library inside your <head> </head> in html and then include `makeCenter.js` .
+BECAREFUL that include jQuery library inside your "<head> </head>" tag in html and then include `makeCenter.js` .
 
 you can download jQuery library in this link: http://jquery.com/download/
 
