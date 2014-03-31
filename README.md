@@ -45,3 +45,8 @@ Sample:
 
 DEMO:
 http://jsbin.com/tulitugo/1/edit?html,css,js,output
+
+`author :` `Kiyarash Sanjarani Vahed`
+`kiarash.3tar@gmail.com`
+`ksvahed@gmail.com`
+`http://ksvahed.ir`
