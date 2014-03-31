@@ -32,7 +32,7 @@ or use CDN that I used in that `main.php` :
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
 Sample:
-
+<!--
 <head>
 
 <title>main Page</title>
@@ -42,6 +42,7 @@ Sample:
 <script type="text/javascript" src="makeCenter.js"></script>
 
 </head>
+-->
 
 DEMO:
 http://jsbin.com/tulitugo/1/edit?html,css,js,output
