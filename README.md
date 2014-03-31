@@ -29,20 +29,10 @@ BECAREFUL that include jQuery library inside your "head" tag in html and then in
 you can download jQuery library in this link: http://jquery.com/download/
 
 or use CDN that I used in that `main.php` :
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	use 
+	`<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script`
 
-Sample:
-<!--
-<head>
 
-<title>main Page</title>
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-
-<script type="text/javascript" src="makeCenter.js"></script>
-
-</head>
--->
 
 DEMO:
 http://jsbin.com/tulitugo/1/edit?html,css,js,output
