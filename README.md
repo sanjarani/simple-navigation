@@ -42,3 +42,6 @@ Sample:
 <script type="text/javascript" src="makeCenter.js"></script>
 
 </head>
+
+DEMO:
+http://jsbin.com/tulitugo/1/edit?html,css,js,output
